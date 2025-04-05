@@ -20,6 +20,7 @@ type Cron interface {
 	Uninstall() error
 }
 
+// cron is the implementation of the Cron interface.
 type cron struct {
 	opt     *option
 	command string
