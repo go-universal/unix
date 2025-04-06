@@ -1,5 +1,12 @@
 # Unix
 
+![GitHub Tag](https://img.shields.io/github/v/tag/go-universal/unix?sort=semver&label=version)
+[![Go Reference](https://pkg.go.dev/badge/github.com/go-universal/unix.svg)](https://pkg.go.dev/github.com/go-universal/unix)
+[![License](https://img.shields.io/badge/license-ISC-blue.svg)](https://github.com/go-universal/unix/blob/main/LICENSE)
+[![Go Report Card](https://goreportcard.com/badge/github.com/go-universal/unix)](https://goreportcard.com/report/github.com/go-universal/unix)
+![Contributors](https://img.shields.io/github/contributors/go-universal/unix)
+![Issues](https://img.shields.io/github/issues/go-universal/unix)
+
 `unix` is a Go library for managing cron jobs, Nginx server blocks, systemd services, and system information. It provides a simple and consistent API for creating, installing, and managing these services.
 
 ## Installation
